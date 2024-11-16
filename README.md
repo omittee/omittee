@@ -5,6 +5,7 @@
 </div>
 
 I'm omittee, Web developer from <img src="https://cdn-icons-png.flaticon.com/512/14009/14009678.png" width="14"> <b>China</b>.
+
 Feel free to reach out if you want to exchange ideas or questions. You can contact me via email at 2503868640@qq.com
 
 ### 🧰 skills
