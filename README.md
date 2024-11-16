@@ -9,4 +9,8 @@ I'm omittee, Web developer from <img src="https://cdn-icons-png.flaticon.com/512
 ### 🧰 skills
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,rust,wasm,vue,react,nodejs)](https://skillicons.dev)
 
-![snake](./assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
